@@ -95,7 +95,7 @@ public class Queue {
 		          }
 		    else {
 		    	  data=pop();
-		    	  System.out.println("poped data is/n"+data);
+		    	  System.out.println("poped data isc"+data);
 		    	 
 		          }
 		    break;
